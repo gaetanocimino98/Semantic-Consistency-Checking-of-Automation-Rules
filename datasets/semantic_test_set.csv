@@ -1,0 +1,603 @@
+label;pattern;desc
+entailment;If new completed task on todoist then append to a text file on dropbox;Any time I complete a task in Todoist, append a summary of that task to a text file in Dropbox.
+entailment;If new task created on todoist then add reminder to list on ios reminders;For every new task in Inbox (or you can choose another project/all projects), add a reminder.
+entailment;If new task created on todoist then create a note on evernote;When you add a reminder to do a project/assignment for school, IFTTT will create an Evernote note so you can work inside that Evernote note on your project/assignment.
+contradiction;If new file in your folder on dropbox then create task on todoist;When a file is added to the specified sub folder a reminder to read the file is created.
+entailment;If current condition changes to on weather then send an email on gmail;This Applet will alert you via email when it's raining in NYC.
+entailment;If new task created on todoist then send a notification on notifications;When any task is added in todoist by anyone, an Notification is shown
+entailment;If new starred email in inbox on gmail then create task on todoist;When an email is starred, it will be added to the inbox project. Then it'll can be processed.
+entailment;If new file in your folder on dropbox then create task on todoist;Add a file to the specified Dropbox subfolder and receive a non-urgent task reminder to read it in Todoist
+entailment;If new email in inbox labeled on gmail then create task on todoist;If you get an attachment email, it might be just as important to add it to your Todoist
+entailment;If any new contact on ios contacts then add row to spreadsheet on google drive;When you add new contacts on your iPhone, they're saved to a spreadsheet on your Google Drive.
+entailment;If any new photo by you on instagram then upload public photo from url on flickr;Share your Instagram photos automatically on Flickr.
+entailment;If new email in inbox from search on gmail then create a note on evernote;Star an email in your Gmail account, it automatically saves to Evernote.
+entailment;If shipment status changes on slice then send a notification on notifications;You'll get an Notification any time the status of one of your Slice tracked shipments changes!
+entailment;If breaking news by nasa on space then send a notification on notifications;Get notified when NASA has breaking news
+entailment;If new email in inbox labeled on gmail then create task on todoist;Apply a Gmail label of your choice to create a Todoist task. The email subject becomes the task, and the email contents will be added to the task as a note.
+entailment;If new reminder added to list on ios reminders then add row to spreadsheet on google drive;Create iOS reminder to a specific list. Add google drive spreadsheet with list name and reminders as rows.
+entailment;If any new event added on google calendar then create task on todoist;If any Google calendar event added then todoist task created
+entailment;If new item saved on instapaper then create task on todoist;Whenever an article is saved on Instapaper, this will create a to-do on ToDoist with the title of the article and the URL.
+entailment;If new starred email in inbox on gmail then create task on todoist;Star a message in gmail and it will be added to Todoist
+entailment;If new completed task on todoist then create a note on evernote;Keep track of your completed Todoist tasks in an appended Evernote note
+entailment;If any new issue on github then send a notification on notifications;Just sends you a simple notification whenever there is a new issue on one of your repos.
+entailment;If new photo post by you on facebook then post a tweet on twitter;This posts a tweet whenever you add a picture to facbook
+entailment;If tomorrow's forecast calls for on weather then send a notification on notifications;Get the weather as a notification
+entailment;If any new post on wordpress then create task on todoist;If you have people using your WordPress site to create posts, this is just a helpful way of reminding you to go check their content to make sure that it is 'up to standard'.
+entailment;If check engine light turned on on automatic then create task on todoist;Create a task in ToDoist when check engine light turns on
+entailment;If any new item on pocket then create task on todoist;Add a new post to read, video to watch or newsletter to peruse to your Pocket and it will create a new todo list task to your Todoist, so you don't forget!
+entailment;If tomorrow's weather report on weather then send a notification on notifications;Alerts you to the weather forecast for tomorrow every night by sending you a Notification
+entailment;If new critics' pick movie review on the new york times then create task on todoist;Adds a task to ToDoist when the NY times publishes a Critics' Pick movie review.
+entailment;If any new sms received on android sms then create task on todoist;Any Android-SMS is stored into Inbox or any other Project of Todoist. Also a Text-Note is created for Todoist-Premium-User.
+entailment;If new task created with label on todoist then create a note on evernote;I created this recipe to scan any project and create note in evernote default notebook
+entailment;If new tweet by you with hashtag on twitter then create task on todoist;Any Tweet with hashtag #todoist goes into Todoist-Inbox (or any other Project). For Premium-User Note with more information is added.
+entailment;If any new reminder on ios reminders then create task on todoist;If I create a reminder in the iOS Reminders app, create a task in Todoist.
+entailment;If any new reminder on ios reminders then create task on todoist;If I create a reminder in the Reminders app, then add a task to Todoist.
+entailment;If any reminder completed on ios reminders then append to note on evernote;Whenever I complete a task using iOS Reminders, add it as a Completed Task to the Daily Log.
+entailment;If new completed task on todoist then append to note on evernote;Whenever I complete a task in Todoist, append it to my Daily Log in Evernote.
+entailment;If any new check-in on foursquare then append to note on evernote;Whenever I check in to a location from Foursquare/Swarm, append it to my Daily Log in Evernote
+entailment;If new tweet by you on twitter then append to note on evernote;When I Tweet, Retweet, or Reply to something via Twitter, append it to my Daily Log in Evernote.
+entailment;If new status message by you on facebook then append to note on evernote;Whenever I post something to Facebook, append it to my Daily Log in Evernote
+entailment;If any task completed on toodledo then add row to spreadsheet on google drive;Adds row to Google Drive spreadsheet whenever a Toodledo task is marked as complete
+entailment;If new post saved by you on reddit then create a photo post on tumblr;Simply save your image post and it will be uploaded to your Tumblr. Edit the Tags!!!
+entailment;If new email in inbox from on gmail then create task on todoist;If a new e-mail is received to my Gmail account from certain e-mail address, ToDoist task is created
+entailment;If new final score on espn then send an sms on android sms;Send ESPN final score to Andriod SMS.
+entailment;If new article saved for later on feedly then create a note on evernote;Send Saved for Later Articles from Feedly to Evernote.
+entailment;If new starred email in inbox on gmail then create task on todoist;Sends starred gmail to the Todoist task inbox list
+entailment;If any event starts on google calendar then create task on todoist;Any event of google calendar is added to todoist.
+entailment;If any new item on pocket then create task on todoist;If any new item added, then create a task in Pocket
+entailment;If new feed item on feed then create task on todoist;Whenever a new item appears in Wired newsfeed, create a task in Todoist (for your example in your to-read-later list) to read at convenient time.
+entailment;If new post by you on reddit then save for later on pocket;Everytime you hit save on a post in reddit, that post will be added to your pocket articles list
+entailment;If you enter an area on ios location then send a notification on notifications;Set location to home and it will remind you to unmute your phone
+entailment;If any new photo on android photos then add file from url on dropbox;Taking a picture using camera triggers an upload to a dropbox folder.
+entailment;If any new attachment in inbox on gmail then upload file from url on google drive;When I receive an email with an attachment to this account, it will upload the file from URL to my Google Drive
+contradiction;If every day of the week at on date & time then post to channel on slack;Reminders to follow Rent Suggestion process
+contradiction;If new feed item on feed then add to weekly digest on email digest;Receive a weekly digest email of ReadingPack's trending articles.
+contradiction;If new item tagged on pocket then add a public bookmark on diigo;"You shouldn't need to change anything, but if you want to use a different Pocket tag (e.g. ""Diigo"") simply edit the Trigger section."
+contradiction;If your alarm goes off on amazon alexa (us only) then activate shortcut on wink: shortcuts;"Set a group or shortcut to your stairway lights for a soft dim so it can be used as a ""then"""
+contradiction;If new tweet from search on twitter then send a notification on notifications;Use twitter adv search to make your twitter search query
+contradiction;If new feed item on feed then add a bitlink on bitly;Forward your site's RSS feed into a bitly bookmark
+contradiction;If any new photo by you on instagram then send an email on gmail;A great way to share your images to imgur buy using email uploads.
+entailment;If article added to category on wikipedia then add track to a playlist on spotify;If a band adds themselves to the American_indie_rock_groups category in Wikipedia, Spotify adds a track to a Wikipedia Indie Rock playlist.
+contradiction;If every day of the week at on date & time then post to channel on slack;Check Surveys Daily Reminder to Slack
+contradiction;If new trending story on time then change new tab background on google chrome;Select your type of trending article below.
+contradiction;If daily activity summary on fitbit then advanced: insert a record on salesforce;This will create a daily steps record
+contradiction;If blood pressure monitor - new measurement on withings then advanced: insert a record on salesforce;Great Applet for bringing heart rate and blood pressure readings into a new Salesforce record.
+contradiction;If new post from search on craigslist then send me an sms on sms;Replace the search url with your craigslist url
+contradiction;If any new post in subreddit on reddit then create a link note on evernote;Scan new jobs on Subreddit ForHire
+contradiction;If new follower on twitter then post a tweet on twitter;Add to quickly and kindly thank your new Twitter Followers!
+contradiction;If new favorite album on deezer then upload a photo from url on facebook;Publique seus albuns favoritos em um album dedicado no Facebook
+contradiction;If any event starts on google calendar then create a page on onenote;It's better to have all under control, and the perfect way it's with Google Calendar and OneNote!
+contradiction;If new public like on soundcloud then create a page on onenote;If you love Soundcloud and OneNote, you'll love this Applet.
+entailment;If new trending gif on giphy then change new tab background on google chrome;Set Chrome's new tab page background to a trending GIF from GIPHY!
+contradiction;If new random gif based on keyword on giphy then change new tab background on google chrome;Use a random tagged GIF from GIPHY as Chrome's background
+contradiction;If new gif based on keyword on giphy then change new tab background on google chrome;Use a new tagged GIF from GIPHY as Chrome's background
+contradiction;If new tweet from search on twitter then push a note on pushbullet;This checks Waframe PC Alerts and sends a pushbullet notification when it finds a vauban alert
+contradiction;If new sms received matches search on android sms then set ringtone volume on android device;I lose my phone more often than I care to admit. Works like a charm!
+contradiction;If any new post on tumblr then post a tweet with image on twitter;This is currently in testing to see how it works in practice
+contradiction;If word of the day on wikipedia then push a note on pushbullet;Tired of going to the Wikipedia homepage for the word of the day? Get it pushed instantly to all of your devices!
+contradiction;If new feed item matches on feed then add row to spreadsheet on google drive;A list of news related to India
+contradiction;If new status message on page on facebook pages then post a tweet on twitter;Seriously Addictive Mathematics @ Tampines Central - Opening Soon!
+entailment;If today's weather report on weather then send me an sms on sms;11 o'clock weather report by text message
+contradiction;If new public video uploaded by you on youtube then add pin to board on pinterest;The Fairly OddParents,The Fairly OddParents Full Episodes,The Fairly OddParents Episodes,The Fairly OddParents Movie
+contradiction;If daily step goal achieved on fitbit then create a status message on facebook;Share your steps with Facebook friends.
+contradiction;If any new post in subreddit on reddit then push a note on pushbullet;Designed to help /r/HSPulls moderators approve and remove submissions.
+contradiction;If new public like on soundcloud then append to note on evernote;"In the note, you get the title with a link to the track, and the poster, with a link its profile.
+You can specify the notebook in which you want to add the note, and the name of the note.
+Each append is followed by a line return, so you get a nice list of liked tracks. Neat !"
+contradiction;If event starting soon on office 365 calendar then blink lights on philips hue;blink selected lights 15 minutes before O365 calendar event
+contradiction;If new feed item on feed then post a tweet with image on twitter;Look forward to providing massive value to your clients!
+entailment;If new status message by you with hashtag on facebook then create a status message on facebook pages;If You Published A post in your timeline With #Hashtag Then Post To #Page
+contradiction;If new photo post on tumblr then add pin to board on pinterest;hoe lang hebben we daar op gewacht?!
+entailment;If new post from search on craigslist then send me an sms on sms;Copy and Paste Search String from Craigslist and it will send you new results when they are posted.
+contradiction;If tomorrow's forecast calls for on weather then send a notification on notifications;It is a clear day tomorrow
+contradiction;If new feed item on feed then send me an email on email;The information on all recent CVE vulnerabilities, just to keep up to date of the most recent.
+contradiction;If every year on on date & time then post a tweet on twitter;Merry Christmas to your twitter friends
+contradiction;If new item tagged on pocket then add a public bookmark on pinboard;specify the tag to transfer the bookmark
+contradiction;If new photo by you with specific hashtag on instagram then post a tweet with image on twitter;"All it requires is a healthy you.  I do not mean a fully physically healthy you. I mean a ""you"" who is capable of managing a ""healthy"" personal agenda when involved in ""conscious"" acts of caring, loving, treasuring, honoring the Divinity that is You."
+contradiction;If any new photo by you on instagram then post a tweet with image on twitter;Sometimes the best messages are just a picture worth a thousand words. What words would you use?
+contradiction;If any new photo by you on instagram then post a tweet with image on twitter;An image is worth a thousand words, What words would you choose?
+contradiction;If new photo by you with specific hashtag on instagram then upload a photo from url on facebook pages;The transformative affect when we fill our cup first with love and care.
+contradiction;If any new photo by you on instagram then create a link post on facebook pages;The honest and sometimes brutal truth.
+entailment;If new feed item on feed then create a post on wordpress;New Feed Item post to WP/Blog.com
+contradiction;If new feed item on feed then create a link post on facebook pages;vnexpress suc khoe rss to facebook pages
+contradiction;If new email in inbox from on gmail then push a link on pushbullet;Until they learn how the android OS works, here's a workaround!
+contradiction;If any new event added on google calendar then send me an email on email;This is so that I can add events to my CRM.  This is helpful, but I would really like to be able to put things more directly in.  If anyone has any suggestions as to how to do that, that would be really great.
+contradiction;If new feed item on feed then send a notification on notifications;Sends a notification to your android device whenever a new movie with 7+ IMDB rating is available to download from yts.to
+contradiction;If new feed item on feed then post a tweet with image on twitter;Add instructions or share a story Online_khabar
+contradiction;If new liked tweet by you on twitter then add to buffer on buffer;Create a friendly friday to a user of twitter linked to a tweet you have favourited
+entailment;If your timer goes off on amazon alexa (us only) then send a notification on notifications;Send my phone a notification when my Echo timer goes off
+entailment;If new feed item on feed then create a post on wordpress;1 blog is at another site. This takes the link via feed and published it on another (wordpress) blog
+entailment;If new tweet by you on twitter then create a link post on facebook pages;When @RiverJunkies tweets, it will post on RiverJunkies FB
+entailment;If new status message on page on facebook pages then post a tweet on twitter;When RiverJunkies FB posts, it will be posted to Twitter
+entailment;If you enter an area on android location then post a tweet on twitter;Simply tweets when I am home
+contradiction;If send ifttt any email on email then upload file from url on google drive;View your attachments both online and offline in the IFTTT folder which is created automatically
+contradiction;If send ifttt any email on email then upload file from url on google drive;View your attachments anywhere with Google drive.
+contradiction;If any new contact on ios contacts then add row to spreadsheet on google drive;Agregar contactos de IOS a Google Spreadsheet
+contradiction;If new trending story on time then send me an email on email;Many followers on twitters aren't sincere.
+contradiction;If new trending story on time then send me an email on email;Many followers on Twitter aren't sincere.
+contradiction;If new tweet by a specific user on twitter then post a tweet on twitter;Install Applet to follow master account
+contradiction;If any new source on feedly then send an email on gmail;receta compartida de ifttt, si en un blog se publica nuevo contenido entonces, enviame un correo a nuestro gmail.
+contradiction;If new feed item on feed then send me an email on email;Create an account and hook up your email
+contradiction;If new feed item matches on feed then send me an sms on sms;Text if new XJ item on 2ndlifejeeps
+contradiction;If new feed item matches on feed then send me an sms on sms;Text if new GC item on 2ndlifejeeps
+contradiction;If new feed item on feed then create a post on wordpress;Mike Maloney Youtube Rss to Wordpress
+contradiction;If new feed item matches on feed then send me an sms on sms;Text if new YJ/TJ item on 2ndlifejeeps
+contradiction;If any new post in subreddit on reddit then create a photo post on blogger;The struggle is real with this one. I'm no mastermind.
+contradiction;If every day of the week at on date & time then upload a photo from url on facebook pages;todo domingo as 6h da noite
+entailment;If sunrise on weather then call my phone on phone call;calls your phone 15 min prior to sunrise
+contradiction;If tomorrow's forecast calls for on weather then send blink event on blink(1);tells you if it's going to clear out.
+contradiction;If new top post in subreddit on reddit then add file from url on onedrive;All studio ghibli art and fan art from /r/ghibli as your background.
+contradiction;If new photo post by you with hashtag on facebook then upload file from url on google drive;Crowdsource wedding photos from facebook with hashtag
+entailment;If any new public photo by you on 500px then upload public photo from url on flickr;Increase your exposure by easily publishing to both 500px and Flickr photo sharing networks.
+entailment;If your profile changes on facebook then update profile picture on twitter;Maintain a consistent profile by keeping your Facebook and Twitter profile photos in sync.
+contradiction;If new feed item on feed then create a photo post on tumblr;We love formula 1, share with us, and let us spread this awesome sport
+entailment;If new public video uploaded by you on youtube then create a link post on facebook pages;YT New Video to Facebook Page
+contradiction;If new feed item on feed then create a photo post on tumblr;add amateur images from 60 submit
+contradiction;If new link post on page on facebook pages then create a link post on facebook;from pilates page to personal page
+contradiction;If new feed item on feed then create a status message on facebook pages;RSS to facebook page tv vietnamradio
+entailment;If new email in inbox from search on gmail then send me an sms on sms;Spending way too much time refreshing your inbox on your LDS missionary's P-day? Go be productive and let this Applet check for you! Whenever an email hits your inbox from a missionary, a text will be sent to your phone containing who it's from and the subject line.
+contradiction;If new public photo tagged on flickr then create a photo post on blogger;Publish with #yo tag in blog
+contradiction;If new link post on page on facebook pages then post a tweet with image on twitter;Please share and comment below the post
+contradiction;If new feed item on feed then send me an email on email;If new Gumtree.com.au Car Tips from http://blog.gumtree.com.au/ then send me an email :) - Gumtree is curating some lovely tip's for drivers that makes a great read!
+contradiction;If new tweet from search on twitter then add user to list on twitter;Creating a list of people talking about innovation to source speaker for an event about innovation in Europe
+contradiction;If daily activity summary on fitbit then create a status message on facebook;Yesterday's Total Steps, Total Floors Climbed, Total Calories Burned, Total Elevation Gained, and Total Distance Covered posted to your Facebook status.
+entailment;If new screenshot on android photos then upload a photo from url on facebook;Just take a screenshot and it will auto-upload it to facebook for you.
+entailment;If new tweet from search on twitter then push a note on pushbullet;@dost_pagasa tweets about thunderstorm advisory for NCR region and receive a pushbullet note
+contradiction;If new tweet by a specific user on twitter then push a note on pushbullet;Ontvang updates via Pushbullet zodra @veluwecup weer een nieuwe update plaatst. Handig voor tussenstanden tijdens de Veluwecup.
+contradiction;If new follower on twitter then post to channel on slack;"Recommended: change the ""you"" in the message field to your own Twitter handle."
+contradiction;If new feed item matches on feed then send a notification on notifications;This Applet will will trigger a notification on your iOS device every time a new episode of One Piece is real eased by HorribleSubs.info
+contradiction;If new tweet by anyone in area on twitter then add user to list on twitter;Adds users to a list if tweeting from Ullevaal.
+contradiction;If every day at on date & time then post a tweet with image on twitter;Will vote for CoderDojo in the Microsoft challenge every day so CoderDojo gets $500k
+contradiction;If new public video uploaded by you on youtube then create a link post on facebook pages;Get the latest and most updated video online
+contradiction;If any new post on blogger then create a link post on facebook pages;Please ignore this - Testing in progress!
+entailment;If any new post on wordpress then send a notification on notifications;Send notification to your iOS when new post is Posted to #DhiRLS Blog
+contradiction;If new link post by you on facebook then post a tweet with image on twitter;FFKM, TFM, PEEK, VITON, PCTFE, FVMQ
+contradiction;If send ifttt an sms tagged on sms then quick add event on google calendar;A clean event will be created with no tag.
+contradiction;If new link post on page on facebook pages then post a tweet on twitter;Link en Fb, Link en Twitter
+contradiction;If new photo upload on page on facebook pages then post a tweet with image on twitter;Nueva foto en fb, foto en Twitter
+contradiction;If any new photo by you on instagram then upload a photo from url on facebook;Please Share Our Candid Camera Wedding Events!
+contradiction;If new status message on page on facebook pages then post a tweet on twitter;Nuevo status en Fb, status en Twitter
+contradiction;If new photo upload on page on facebook pages then update profile picture on twitter;Foto de perfil cambia en Fb cambia en twitter
+contradiction;If new link post on page on facebook pages then post a tweet on twitter;Nuevos link en FB, link en twitter
+entailment;If new status message on page on facebook pages then post a tweet on twitter;Status en Fb, status en twitter
+entailment;If turned on on littlebits then set output level on littlebits;If witbit has input, set its output on as confirmation that cloud received the alert!
+contradiction;If new feed item on feed then save for later on pocket;fait'zexcuz, mais c'est on ne peut plus clair
+contradiction;If today's price drops by percentage on stocks then post to channel on slack;Click on 'Advance Setting' to change the stock symbol (default to GOOGL)
+contradiction;If new hot post in subreddit on reddit then send an email on gmail;made whilst interning at dazed, supposedl /r/news is good for digital story leads
+contradiction;If new tweet by a specific user on twitter then send a notification on notifications;Stay informed when Slack's service is flying through turbulence
+entailment;If new pin on your board on pinterest then create a card on trello;Sync your wedding Pins with your Trello to-do lists, helping you convert dreams into actions!
+entailment;If any new photo by you on instagram then post a tweet with image on twitter;Publish IG posts to Twitter feed
+contradiction;If every month on the on date & time then create a card on trello;Criar uma tarefa mensal para isso
+contradiction;If new email in inbox from search on gmail then add row to spreadsheet on google drive;connect gmail and drive and you're good to go
+contradiction;If new email in inbox from search on gmail then send blink event on blink(1);I'm fundraising for Extra Life,  and I have a blink(1) so I thought why not trigger it when I get a donation email, especially awesome when I live stream.
+entailment;If new mention of you on twitter then create task on todoist;Make it a point to learn about the people who are tweeting you by setting yourself a todoist task with their twitter handle and what they tweeted.
+contradiction;If today's weather report on weather then create task on todoist;If you use Todoist continously, this would help!
+contradiction;If new task created on todoist then create a note on evernote;I wanna to make a daily check. So,  i did.
+contradiction;If new feed item matches on feed then send me an email on email;Enter search criteria to search UK Hot deals
+entailment;If new task created on todoist then quick add event on google calendar;Adicionar no Google calendar tarefa do Todoist com data de vencimento.
+entailment;If wind speed rises above on weather then send me an sms on sms;I frequently have problems with the wind blowing over my kids basketball goal, so I created this Applet to send me a text every time the wind speed gets above a certain level to remind me to lay down the goal so it won't get damaged.
+contradiction;If any new issue on github then create task on todoist;An easy way to keep track of github issues.
+contradiction;If any new bitlink on bitly then create task on todoist;Remeber to include this link in Analytics
+contradiction;If new photo added to album on ios photos then upload file from url on box;Creates a box folder with album name
+contradiction;If daily step goal achieved on fitbit then send a notification on notifications;So I don't have to constantly check to see my step count.
+entailment;If new feed item matches on feed then send me an email on email;Activated whenever there is a new Free grocery item available from CuttingCoupons.net
+entailment;If any new contact on ios contacts then create task on todoist;Let IFTTT create a task for you, every time a new phone number was added to your contacts, that you create a clean contact entry for this new contact
+contradiction;If new email in inbox from search on gmail then create task on todoist;Customize the search for text to match the wording of the email reminder from your utility company
+contradiction;If new favorite item on pocket then create task on todoist;Sometimes there is action required after reading article offilne, like checking links or investigating topic
+contradiction;If every month on the on date & time then create task on todoist;Clean up your calendar by using this recipe to automatically create Todoist task item for monthly recurring tasks.
+contradiction;If new task created on todoist then create task on todoist;"Can be used to mirror tasks in default ""Inbox"" project to a project of your choice"
+contradiction;If every day of the week at on date & time then create a page on onenote;easy way to send yourself weekly reminders/notes
+contradiction;If new starred email in inbox on gmail then create task on todoist;Very simple, but powerfull productivity tip with Todoist )
+contradiction;If new liked tweet by you on twitter then create a note on evernote;Si favorit a Twitter, doncs nota a Evernote
+entailment;If any new post on wordpress then add to weekly digest on email digest;email weekly digest of WP posts
+contradiction;If any new item on pocket then create task on todoist;Never fall behind on your new Pocket additions!
+contradiction;If new email in inbox from search on gmail then send me an sms on sms;so i don't miss limited time coupons from them.
+contradiction;If every month on the on date & time then create task on todoist;No more reoccurring reminders cluttering your todoist!
+contradiction;If every day of the week at on date & time then post a tweet on twitter;Today's Music Makers NY STUDIO SPECIAL: book at: 10pm/$20hr any room OR 10:30pm/$15hr any room! (212) 967-6124
+contradiction;If new task created on todoist then append to note on evernote;You just add which project it has to watch, and which note to append to, and you've got yourself a backup of your tasks !
+contradiction;If new feed item on feed then add to buffer on buffer;Post new blogs from Sally Ride Science Blog to Buffer
+contradiction;If new tweet by you on twitter then create a link post on facebook;If you don't want to switch between both accounts
+entailment;If new email in inbox labeled on gmail then create task on todoist;Adds ToDoist task with the email's body as task content
+entailment;If any phone call answered on android phone call then create task on todoist;An easy way to log any calls that come in for your project.
+entailment;If new mention of you on twitter then create task on todoist;"For any new mention, a ""Reply to"" task will be created with the username and text linked to the tweet."
+entailment;If new task created with label on todoist then append to note on evernote;Determine a label, and new created Todoist tasks with this label will be added to specific Evernote task
+entailment;If any new reminder on ios reminders then create task on todoist;Register one task with Siri in Todoist
+entailment;If new public video uploaded by you on youtube then create a post on blogger;Trigger: YT service (CMacPlumbing), Action: New Video Uploaded, Field: Blogger (CMacPlumbing)
+entailment;If arriving soon on bmw labs then make a web request on maker;Tell your home automation or wife when you're 20 minutes away
+entailment;If new public video uploaded by you on youtube then create a text post on tumblr;Trigger: YT service (CMacPlumbing), Action: New Video Uploaded, Field: Tumblr (CMacPlumbing)
+entailment;If new public video uploaded by you on youtube then post a tweet on twitter;Trigger: YT service (CMacPlumbing), Action: New Video Uploaded, Field: Twitter (@CMacPlumbing_)
+entailment;If new public video uploaded by you on youtube then create a post on wordpress;Trigger: YT service (CMacPlumbing), Action: New Video Uploaded, Field: WP (CMacPlumbing)
+entailment;If new public video uploaded by you on youtube then create a status message on facebook pages;Trigger: YT service (CMacPlumbing), Action: New Video Uploaded, Field: FB Pages (CMacPlumbing)
+entailment;If new public video uploaded by you on youtube then add pin to board on pinterest;Trigger: YT service (CMacPlumbing), Action: New Video Uploaded, Field: Pinterest (CMacPlumbing)
+entailment;If new public video uploaded by you on youtube then share a story on newsblur;Trigger: YT service (CMacPlumbing), Action: New Video Uploaded, Field: NewsBlur (CMacPlumbing)
+entailment;If new public video uploaded by you on youtube then create a post on medium;Trigger: YT service (CMacPlumbing), Action: New Video Uploaded, Field: Medium (CMacPlumbing)
+entailment;If new public video uploaded by you on youtube then upload file from url on google drive;Trigger: YT service (CMacPlumbing), Action: New Video Uploaded, Field: GDrive (CMacPlumbing)
+entailment;If new public video uploaded by you on youtube then upload public photo from url on flickr;Trigger: YT service (CMacPlumbing), Action: New Video Uploaded, Field: Flickr (CMacPlumbing)
+entailment;If new public video uploaded by you on youtube then create a note on evernote;Trigger: YT service (CMacPlumbing), Action: New Video Uploaded, Field: EverNote (CMacPlumbing)
+entailment;If new public video uploaded by you on youtube then save for later on pocket;Trigger: YT service (CMacPlumbing), Action: New Video Uploaded, Field: Pocket (CMacPlumbing)
+entailment;If new public video uploaded by you on youtube then add a public bookmark on delicious;Trigger: YT service (CMacPlumbing), Action: New Video Uploaded, Field: Delicious (CMacPlumbing)
+entailment;If new liked video on youtube then add a bitlink on bitly;Trigger: YT service (CMacPlumbing), Action: Liked Video, Field: Bitly (CMacPlumbing)
+entailment;If new liked video on youtube then publish blog post on weebly;Trigger: YT service (CMacPlumbing), Action: Liked Video, Field: Weebly (CMacPlumbing)
+entailment;If new liked video on youtube then add to buffer on buffer;Trigger: YT service (CMacPlumbing), Action: Liked Video, Field: Buffer (CMacPlumbing_)
+entailment;If new liked video on youtube then create a post on blogger;Trigger: YT service (CMacPlumbing), Action: Liked Video, Field: Blogger (CMacPlumbing)
+entailment;If new liked video on youtube then add a public bookmark on diigo;Trigger: YT service (CMacPlumbing), Action: Liked Video, Field: Diigo (CMacPlumbing)
+entailment;If new liked video on youtube then save item on instapaper;Trigger: YT service (CMacPlumbing), Action: Liked Video, Field: Instapaper (CMacPlumbing)
+entailment;If new liked video on youtube then create a card on trello;Trigger: YT service (CMacPlumbing), Action: Liked Video, Field: Trello (CMacPlumbing)
+entailment;If new liked video on youtube then create a text post on tumblr;Trigger: YT service (CMacPlumbing), Action: Liked Video, Field: Tumblr (CMacPlumbing)
+entailment;If new liked video on youtube then post a tweet on twitter;Trigger: YT service (CMacPlumbing), Action: Liked Video, Field: Twitter (@CMacPlumbing_)
+entailment;If new liked video on youtube then create a post on wordpress;Trigger: YT service (CMacPlumbing), Action: Liked Video, Field: WP (CMacPlumbing)
+entailment;If new liked video on youtube then create a status message on facebook pages;Trigger: YT service (CMacPlumbing), Action: Liked Video, Field: FB Pages (C Mac Plumbing)
+entailment;If new liked video on youtube then add pin to board on pinterest;Trigger: YT service (CMacPlumbing), Action: Liked Video, Field: Pinterest (CMacPlumbing)
+entailment;If new liked video on youtube then share an update on linkedin;Trigger: YT service (CMacPlumbing), Action: Liked Video, Field: LinkedIn (CMacPlumbing)
+entailment;If new liked video on youtube then share a story on newsblur;Trigger: YT service (CMacPlumbing), Action: Liked Video, Field: BlurBlog (CMacPlumbing)
+entailment;If new liked video on youtube then create a post on medium;Trigger: YT service (CMacPlumbing), Action: Liked Video, Field: Medium (CMacPlumbing)
+entailment;If new liked video on youtube then upload file from url on google drive;Trigger: YT service (CMacPlumbing), Action: Liked Video, Field: Google Drive (CMacPlumbing)
+entailment;If a workflow is run on workflow then add row to spreadsheet on google drive;Log all your expenses on an handy google spreadsheet, directly from the Workflow widget and even without unlocking your iPhone! Add tags to identify the type of expense and the method (debit, credit, cash), along with date and location - Download this workflow first to get started: http://bit.ly/logexpenses
+entailment;If a workflow is run on workflow then add row to spreadsheet on google drive;Log your weight directly from the Workflow widget, even without unlocking your iPhone! Just insert your weight, and it will be saved on Apple Health + Google Docs an example of a simple spreadsheet can be found here: https://goo.gl/kCfwXy - Download the workflow from here: https://workflow.is/workflows/730640c52697439c8e8dbb6198947159
+entailment;If new public like on soundcloud then add track to a playlist on spotify;Like a song on soundcloud and it will be saved to a specified  playlist
+entailment;If new note in a notebook on evernote then create a post on wordpress;A new note on  Evernote Notebook will trigger the note to be published on Wordpress blogg
+entailment;If new completed task on todoist then create task on todoist;"this Applet will listen to tasks completed in a project and when a task is completed it will set a due date for a new project. The advantage of this Applet is that other ""save for later"" Applets will only set a due date at the time the task is added. This can quickly lead to a pile up of items all due within a short time span. Ideally this Applet would have put a due date on the reading task item itself, but todoist doesn't expose that as an action, it only lets you create new tasks. So if you already have a reading list (like me) , then a workaround is to make a super project that this Applet will listen to. then you simply check off in two lists -- one in the Applet project to create a new task and one in the other project with your reading items. again, not ideal but it'll work!"
+entailment;If new public video uploaded by you on youtube then add to buffer on buffer;Youtube upload post to G+ page via Buffer
+entailment;If new public video uploaded by you on youtube then add a public bookmark on delicious;Youtube upload post public bookmark to Delicious
+entailment;If new public video uploaded by you on youtube then create a document on google drive;Youtube upload create text doc to G Drive
+entailment;If new public video uploaded by you on youtube then save item on instapaper;Youtube upload add link to Instapaper
+entailment;If new public video uploaded by you on youtube then create a text file on box;Youtube upload create text doc to Box
+entailment;If new public video uploaded by you on youtube then create a text file on dropbox;Youtube upload create text doc and add to Dropbox
+entailment;If new public video uploaded by you on youtube then create a page from a link on onenote;Youtube upload create page in OneNote
+entailment;If new public video uploaded by you on youtube then save for later on pocket;Youtube upload add link to Pocket
+entailment;If new public video uploaded by you on youtube then create a video post on tumblr;Youtube upload video post to Tumblr
+entailment;If any new issue on github then change color on philips hue;Changes your hue lights when a new github issue is assigned to you
+entailment;If you enter an area on android location then go back to schedule on netatmo thermostat;Choose your trigger zone and it will switch to the default program when you enter the area. This is only Android friendly. It won't work on IOS phones
+entailment;If you exit an area on android location then set to away mode on netatmo thermostat;This will switch your Netatmo thermostat to away mode when you walk away from the selected zone. This will only work on Android devices.
+entailment;If card added to list on trello then add row to spreadsheet on google drive;This Applet will house all new cards created in the To Be Assigned lane.
+contradiction;If card added to list on trello then add row to spreadsheet on google drive;This will house all projects that are 90% complete
+entailment;If new completed task on todoist then vibrate on pavlok;Rewarding vibration for when you complete a task in your Todoist
+entailment;If any new closed issue on github then post to channel on slack;I find this Applet really useful as it sends a message directly to my personal service on slack whenever an issue is closed, it helps me keep track of issues that were assigned to me particularly.
+entailment;If any new issue on github then post to channel on slack;Whenever somebody opens an issue on a Github repository I'm involved with, I get a little message in my personal Slack service which gives me a great list of things that need doing on any given repository.
+entailment;If you enter an area on android location then turn on wifi on android device;Just set a radius for where you want your phone's Wi-Fi to turn on before you get home.
+entailment;If new note in a notebook on evernote then quick add event on google calendar;Create a Google Calendar event triggered by a new note in a Calendar notebook. The item title is the 'quick-add' description of the event e.g. 'meet Joe Tuesday at 12:00'
+entailment;If new activity by you on strava then send me an sms on sms;This Applet lets my spouse know when I'm on the way home from a workout.
+entailment;If you exit an area on ios location then set room temperature on nefit easy;When leaving the area cool down the house
+entailment;If card added to board on trello then post message on skype;Connect your Trello and choose a board and link it to your conversation
+entailment;If you enter or exit an area on ios location then add row to spreadsheet on google drive;Keep track of when you arrive at or leave work.
+entailment;If card added to list on trello then append a to-do to note on evernote;In My Trello I have a list that is my 'Weekly Active Tasks', where I move items from my Backlog  into when I am ready to take them on that week. I am using Evernote as my To Do List for now so this handy Applet will automagically add my task to a simple list
+contradiction;If new reminder added to list on ios reminders then stop watering on skydrop;"This is setup to trigger by something added to a Specific List. I have set up a list called Sprinkler. ""Hey Siri, add to Sprinkler List, [Month, Day, Time]"
+entailment;If you enter or exit an area on ios location then quick add event on google calendar;Track the amount of time you spend at home, or away from home. Discover any patterns that exist in the way you spend your time.
+entailment;If card added to board on trello then post to channel on slack;If a new card is made then post that card to slack
+entailment;If new task created with label on todoist then quick add event on google calendar;Add  todoist tasks marked with your choice of labels in your choice of projects are sent to google calendar.
+entailment;If you enter an area on android location then turn on wifi on android device;When you come home WiFi on your device is turned on
+entailment;If you enter an area on android location then turn on wifi on android device;Wi-Fi automatically turns on when you're near a certain place. Useful for places where your phone has a saved Wi-Fi login connection.
+entailment;If you enter an area on android location then set a zone temperature on honeywell evohome;Please choose your area and room you want to change temperature
+entailment;If you enter an area on android location then turn off spotcam on spotcam;Define the area where you live and your SpotCam will turn off automatically in the future when you are back in the area of your house.
+entailment;If you exit an area on android location then turn on spotcam on spotcam;Define the area where you live and your SpotCam will turn on automatically in the future when you leave the area of your house.
+entailment;If any new reminder on ios reminders then create a page on onenote;when you make a new reminder with the reminder app, then you will automatically create a new page in One Note
+entailment;If you enter an area on ios location then play the text to speech on oticon;This will notify when you arrive at the location Oticon Norway.
+contradiction;If a workflow is run on workflow then add a new site on newsblur;Use Workflow to detect the RSS feed of a website and then subscribe in NewsBlur. Use this recipe with this workflow: https://workflow.is/workflows/79b560e887884ffc922b37cc0171f968
+entailment;If card added to board on trello then post to space on ibm watson workspace;Feel free to customize the message to let your team members know updates to tasks happening within a specific Trello board.
+entailment;If you enter an area on ios location then turn device on on skylinknet;If location then open the door
+entailment;If you exit an area on ios location then turn device off on skylinknet;Leave the area then close the door
+entailment;If last family member leaves a specific place on life360 then turn off your thermostat on hive active heating™;Notes:   Turns off your heating when the last family member with Life360 leaves home.
+entailment;If first family member arrives at a specific place on life360 then set the thermostat to schedule on hive active heating™;Sets your heating to 'Scheduled' when the first family member with Life360 comes home.
+entailment;If you enter an area on ios location then set mode on wiser air;"Set your Wiser Air to ""Home"" when you enter an area."
+entailment;If you exit an area on ios location then set mode on wiser air;"Set your Wiser Air to ""Away"" when you exit an area."
+entailment;If first family member arrives at a specific place on life360 then disarm on arlo;Use Life360 to detect when the first member of a group arrive at a location. When that happens, disable arlo cameras.
+entailment;If last family member leaves a specific place on life360 then arm on arlo;Use Life360 to detect when the last member of a group leaves a location. When that happens, arm arlo cameras.
+entailment;If first family member arrives at a specific place on life360 then disarm ismartalarm on ismartalarm;Use Life360 to detect when the first member of a group arrives at a location. When that happens, disarm iSmartHome.
+entailment;If last family member leaves a specific place on life360 then arm ismartalarm on ismartalarm;Use Life360 to detect when the last member of a group leaves a location. When that happens, arm iSmartAlarm.
+entailment;If you exit an area on ios location then turn lights off on lifx;Turn off the lights when you leaving the area
+entailment;If last family member leaves a specific place on life360 then activate shortcut on wink: shortcuts;This allows you to use Life360 to have geolocation with your wink that supports an entire family. This will do things such as when everyone is not home, turn off lights, or turn lights on for the first person to arrive home.
+entailment;If new visit to a specific document on docsend then send a notification on notifications;Have a particularly important document you've sent? Use this Applet to get a push notification each time you get a new visit to it.
+contradiction;If any new 100% completion visit on docsend then send a notification on notifications;Get notified of those extra special visits where someone reads through the entirety of your document.
+entailment;If new 100% completion visit to document on docsend then send a notification on notifications;Get notified of those extra special visits to a particularly important document where someone reads through the whole thing.
+entailment;If new file in your folder on dropbox then upload file from url on google drive;Upload anything to dropbox, instantly upload to google drive.
+entailment;If you enter an area on ios location then send a notification on notifications;When you are in The downtown area put The telephone silent
+entailment;If new completed task on todoist then create a note on evernote;Store a historic log of all Todoist tasks you complete to Evernote.
+entailment;If new file in your folder on dropbox then upload file from url on google drive;If new file in your folder /Record, then upload file from URL to Google Drive
+entailment;If new file in your folder on dropbox then send a notification on notifications;Notifies you if a new file is added to your Dropbox Account. A Dropbox account is REQUIRED for this! Get one here: https://db.tt/hq7e87Rz
+entailment;If you enter an area on android location then mute ringtone on android device;Simply type in your schools address and when you're near it, your phone will be set on silence.
+entailment;If new task created on todoist then post to channel on slack;Post a link to a new Todoist task to a Slack channel
+entailment;If last family member leaves a specific place on life360 then pause on thermosmart;This will Pause your TS when all family members in your Life360 circle have left your home.
+entailment;If first family member arrives at a specific place on life360 then unpause on thermosmart;This will unpause your TS when your first family member in your Life360 circle arrives at home.
+entailment;If you exit an area on android location then set ringtone volume on android device;I found an Applet that turned my volume down if I entered an area. I thought it useful for my volume to turn back up if I leave an area.
+entailment;If new pull request for a specific repository on github then send a notification on notifications;Get push notifications for every time a pull request is created on Github.
+entailment;If new task created on todoist then create a note on evernote;Adds any new task in Todoist into your Swipes tasks, via Evernote.
+entailment;If you exit an area on android location then turn off on wemo switch;Simple Applet to turn off all your WeMo switches when you leave home.
+entailment;If new reminder added to list on ios reminders then send an email on gmail;Takes new reminders and emails them (ideally to an email-to-task address in your GTD solution).
+entailment;If new file in your folder on dropbox then send a notification on notifications;This simulates the 'you have uploaded a file' message in Dropbox for PC in Android, without the need for installing apps or any configuration apart from linking Dropbox.
+entailment;If any new visit on docsend then push a note on pushbullet;If any new visit, then to any document, push a note.
+entailment;If you exit an area on android location then send a notification on notifications;Turn off your wifi when you leave your house.
+entailment;If new issue assigned to you on github then add reminder to list on ios reminders;Every time you're assigned to a GitHub issue, a reminder will be automatically created in iCloud.
+entailment;If you enter an area on ios location then append to note on evernote;Remember at what time you arrived at home or work
+entailment;If any new issue on github then blink lights on philips hue;The lights will blink when a new issue in one of your repositories is made. Not sure this is good when you have a big company, as it might just blink a lot
+entailment;If new file in your folder on dropbox then add row to spreadsheet on google drive;Upload to dropbox folder and then add a row to google spreadsheet
+entailment;If you exit an area on ios location then post a message to group on groupme;When leaving office location, updates, GroupMe group that you are out
+entailment;If you enter an area on ios location then post a message to group on groupme;When at the office, updates GroupMe.
+entailment;If you enter or exit an area on ios location then append to note on evernote;this Applet allows you to append data to an Evernote note with information about when you arrived or exited a place. This may be useful when your boss is saying you are working less hours than you should or when you need to show him/her you need a raise because you're working too many hours:-)
+entailment;If new task created with label on todoist then quick add event on google calendar;Create a new task in Todoist with the date and time in the title and it will show up on your Google Calendar as an appointment. Perfect for people who block time on their calendars for projects.
+entailment;If new file in your folder on dropbox then send an email on gmail;when file added to Thursday folder send email to sophi and victor
+entailment;If new file in your folder on dropbox then send an email on gmail;when Thursday folder has new file, send email to sophi and victor
+entailment;If you enter or exit an area on android location then add row to spreadsheet on google drive;Track when you enter and leave a location (employment location for example) into a Google Drive spreadsheet.
+entailment;If new file in your folder on dropbox then add file from url on onedrive;Get all your Dropbox files into OneDrive
+entailment;If any new reminder on ios reminders then run custom url on launch center;"iOS: Creates a task in Clear in a list named Todo. Works with Siri: ""Remind me to ..."""
+entailment;If you exit an area on android location then send a notification on notifications;I found this one useful because I don't have Wi-Fi access at my client site (contractor) and always forget to turn WiFi off when leaving home. Just enter your home location.
+entailment;If you enter an area on ios location then turn on on wemo lighting;Turn your lights on when you arrive at the specified location
+entailment;If you exit an area on ios location then turn off on wemo lighting;Turn your lights of when you leave the specified location
+entailment;If new reminder added to list on ios reminders then create a note on evernote;"Create a reminder list called ""Evernote"". Then, If you tell siri to make a Evernote reminder, than this will tell Evernote to create a note with the title of your reminder on your inbox."
+entailment;If any task completed on toodledo then add datapoint on beeminder;Get more tasks done on Toodledoo by Beeminding with this Applet. Every task you complete sends another point to your Beeminder goal.
+entailment;If new task created on todoist then quick add event on google calendar;Add a task on todoist and get it updated as an event on your Google calender
+entailment;If new reminder added to list on ios reminders then add a task on toodledo;Add tasks to your Toodledo account using Siri.
+entailment;If new reminder added to list on ios reminders then create task on todoist;Automatically create Todoist tasks from Siri or Reminders
+entailment;If new task created on todoist then quick add event on google calendar;Sync Todoist tasks to Timeful (one way, one time sync)
+contradiction;If new public bookmark tagged on pinboard then create a text file on dropbox;Used to create text files in Dropbox that become part of a zettelkasten notes system (using NValt) or similar.
+entailment;If any new task on toodledo then quick add event on google calendar;adds a toodledo task on the day it is due as a calendar event
+entailment;If new file in your folder on dropbox then create a link note on evernote;Create Evernote Link from new file in Dropbox folder BusinessShare
+entailment;If new pull request for a specific repository on github then send an email on gmail;Used to notify you with an email if any pull request is raised in you repository
+entailment;If new completed task on todoist then post to channel on slack;Use this Applets when you want to publish completed tasks from Todoist to Slack.
+entailment;If new file in your folder on dropbox then add item to reading list on ios reading list;Share a Dropbox folder with your team?  This Applet will give you easy access to important files and quickly too if you add a notification to it.
+entailment;If you enter an area on ios location then turn on a/c on intesishome;Using your mobile's location when you enter an area your specify, automatically turn on A/C.
+entailment;If you exit an area on ios location then turn off a/c on intesishome;Using your mobile's location when you exit an area your specify, automatically turn off A/C.
+entailment;If new file in your folder on dropbox then send an email on gmail;Send an Email to your team when a new file enter a Dropbox Folder
+entailment;If new file in your folder on dropbox then post a tweet on twitter;Send a Tweet when a File is in a specific dropbox folder
+entailment;If new file in your folder on dropbox then send an email on gmail;Send a mail when a File is set in a specific Dropbox Folder
+entailment;If you enter an area on android location then set ringtone volume on android device;If You enter an area, then set ringtone volume to 20%
+entailment;If you exit an area on android location then set ringtone volume on android device;If You exit an area, then set ringtone volume to 100%
+entailment;If you enter an area on android location then execute scene on intesishome;When you enter a specified area, automatically activate scene.
+entailment;If you exit an area on android location then execute scene on intesishome;When you leave a specified area, automatically activate scene.
+entailment;If you leave a specific place on life360 then turn off a/c on intesishome;Using Life360, when you leave a location you specify, automatically turn off your A/C.
+entailment;If first family member arrives at a specific place on life360 then turn on a/c on intesishome;Using Life360, when the first member of your family arrives home, automatically turn on A/C.
+entailment;If last family member leaves a specific place on life360 then execute scene on intesishome;Using Life360, when the last member of your family leaves a location you specify, automatically activate scene.
+entailment;If any new issue on github then save any web page on inoreader;Whenever you have a new open issue, you will receive it in a special tag in your Inoreader.
+entailment;If new saved track on spotify then create a link post on facebook;Whenever you save a Spotify track, share a Facebook post with a link to the track
+entailment;If new tweet by anyone in area on twitter then add row to spreadsheet on google drive;If anyone tweets within a given area, it shall be recorded on a Google Spreadsheet. (be sure to click advanced settings and change location and title)
+entailment;If new pin on your board on pinterest then upload a photo from url on facebook;If you add a image on Pinterest, then share it on Facebook's album
+entailment;If new article from category on feedly then add pin to board on pinterest;Use this Applet to pin your new feedly post to a Pinterest board.
+entailment;If new liked video on youtube then create a post on wordpress;Will create a post in Wordpress that links to a liked YouTube video
+entailment;If new photo by you with specific hashtag on instagram then post a tweet with image on twitter;Share Instagram photos to Twitter pics by using hashtag #it
+entailment;If new feed item on feed then send me an email on email;When a new blog post is live on Engineering at IFTTT this Applet will send you an email
+entailment;If new song played on amazon alexa (us only) then add row to spreadsheet on google drive;Add song titles played on your Amazon Echo to a Google Drive spreadsheet.
+entailment;If new feed item on feed then post a tweet on twitter;Will send a tweet every time City of Minneapolis posts a new Youtube video
+entailment;If new track added to a playlist on spotify then create task on todoist;If new track added to a playlist, then create a new Todoist task
+entailment;If new feed item on feed then add track to a playlist on spotify;When Rolling Stone reviews a new song, add it to a Spotify playlist
+entailment;If any new post on tumblr then create a link post on facebook pages;If any new post on your TB, then create a link post on FB page
+entailment;If new status message on page on facebook pages then post a tweet on twitter;If new status message on FB page, then post a tweet to TW
+entailment;If new track added to a playlist on spotify then add to weekly digest on email digest;Never miss a new song in your favorite Spotify playlists and receive them by mail, right when the weekend starts.
+entailment;If new saved track on spotify then post to channel on slack;"When you save a track by clicking on the ""plus"" button, then post a message to a Slack service"
+entailment;If check engine light turned on on dash then advanced: insert a record on salesforce;If vehicle's check engine light is on, log a case with Salesforce
+entailment;If new saved track on spotify then send a notification on notifications;"Sends a notification to android when you add a new song to ""my music"""
+entailment;If new feed item on feed then share an update on linkedin;used to link my RSS feeds to my Linkedin account
+entailment;If send ifttt any sms on sms then blink lights on philips hue;Receive sms and hue light will blink
+entailment;If new photo post on tumblr then post a tweet with image on twitter;Tumblr image posts now appear on Twitter.
+entailment;If card added to board on trello then send me an email on email;If I add a card onto Product Change Request Trello Board, then email me
+entailment;If new public video uploaded by you on youtube then create a video post on tumblr;YouTube post add video post to Tumblr
+entailment;If new liked tweet by you on twitter then save for later on pocket;Save your favourite tweets into your Pocket account
+entailment;If new public video uploaded by you on youtube then create a text post on tumblr;YouTube upload create text post on Tumblr
+entailment;If any new photo by you on instagram then post a tweet with image on twitter;Whatever picture I post to Instagram will be posted to Twitter with the photo showing, rather than just a link.
+entailment;If new feed item on feed then add to buffer on buffer;New Rss feed added to buffer
+entailment;If new feed item on feed then save item on instapaper;RSS feed item added to instapaper.
+entailment;If new link post on page on facebook pages then add row to spreadsheet on google drive;Add every link you post to Facebook to a Google Drive spreadsheet. Now you'll have a detailed list of posts to recycle or archive.
+entailment;If new follower on twitter then add row to spreadsheet on google drive;When someone follows you on Twitter, this Applet adds all their info to a Google Drive spreadsheet.
+entailment;If new feed item on feed then create a post on wordpress;New Feed item added to Wordpress
+entailment;If any new photo by you on instagram then post a tweet with image on twitter;instantly publish your Instagram photos to Twitter
+entailment;If new feed item on feed then add a public bookmark on diigo;New feed item added to diigo
+entailment;If any new photo by you on instagram then add pin to board on pinterest;Pins images added to your Instagram to a Pinterest board of your choosing!
+entailment;If any new photo by you on instagram then upload a photo from url on facebook pages;Adds Instagram posts to an Album on your Facebook Page
+entailment;If new email in inbox labeled on gmail then upload file from url on box;New Gmail attachments upload to box
+entailment;If any new post in subreddit on reddit then add photo to album on ios photos;Save all subreddits post in your photos
+entailment;If any new post in subreddit on reddit then add photo to album on ios photos;Download photos from a subreddits to a specific photo album
+entailment;If any new photo by you on instagram then upload a photo from url on facebook pages;If any new IG photo, then upload a photo from URL on FB page
+entailment;If new photo by you with specific hashtag on instagram then post a tweet with image on twitter;Use the hashtag #tw when posting an instagram photo and it will automatically be posted as a native photo to twitter.
+entailment;If any new email on office 365 mail then send an email on gmail;Forward Office 365 email received in your account to a gmail account.
+entailment;If smoke alarm warning on nest protect then turn on lights on philips hue;if nest protect smoke warning, turn on all hue lights
+entailment;If any new photo by you on instagram then add pin to board on pinterest;Automatically Post Instagram Photos to a board on Pinterest
+entailment;If check engine light turned on on automatic then advanced: insert a record on salesforce;It's important that your vehicle fleet stays healthy. If the check engine light turn on in a vehicle connected to Automatic this Applet will create a case in Salesforce.
+entailment;If battery drops below 15% on android battery then send me an email on email;If my Android battery is low, send an email
+entailment;If new photo post on tumblr then change new tab background on google chrome;Use a your new photo Tumblr post as Chrome's new tab background image.
+entailment;If new post tagged on tumblr then change new tab background on google chrome;Use a your new tagged photo Tumblr post as Chrome's new tab background image.
+entailment;If new photo in your folder on dropbox then change new tab background on google chrome;Use your latest Dropbox photo from a folder as Chrome's new tab background.
+entailment;If new trending story on sports illustrated then change new tab background on google chrome;Set a trending Sports Illustrated article as Chrome's new tab background.
+entailment;If any new post in subreddit on reddit then change new tab background on google chrome;Set the latest Reddit post from a subreddit as Chrome's new tab background.
+entailment;If new post with tag or category on wordpress then change new tab background on google chrome;Set the latest tagged Wordpress post as Chrome's new tab background.
+entailment;If any new photo on ios photos then change new tab background on google chrome;Use your latest iOS photo as Chrome's new tab background.
+entailment;If new item from search on ebay then change new tab background on google chrome;Set the latest tagged Ebay item as Chrome's new tab background.
+entailment;If new feed item on feed then change new tab background on google chrome;Use the latest images from an RSS feed as Chrome's new tab background.
+entailment;If any new post on blogger then change new tab background on google chrome;Use your latest Blogger post as Chrome's new tab background.
+entailment;If you enter an area on android location then set ringtone volume on android device;If I am at home then turn volume on my phone
+entailment;If any new sms received on android sms then add row to spreadsheet on google drive;Saves each message you receive in a google spread sheet.
+entailment;If new song played on amazon alexa (us only) then add track to a playlist on spotify;Songs that you play with Amazon Alexa will be added to a playlist on Spotify.
+entailment;If new article tagged on feedly then share a link on linkedin;Tag an article Feedly to share it on LinkedIn. Works with the free Feedly version, too.
+entailment;If new liked video on youtube then create a post on wordpress;Creates a new Wordpress blog when you like a YouTube video, including the YouTube description in the body of the post. This Applet uses the URL, not embed code, so it is more mobile device friendly.
+entailment;If new article tagged on feedly then create a link post on tumblr;Tag an article in Feedly, then create a link post on your Tumblr blog
+entailment;If you enter an area on android location then set ringtone volume on android device;If I am at home then turn volume on my phone
+entailment;If new public video uploaded by you on youtube then create a post on wordpress;update any wordpress video to my blog
+entailment;If new public video uploaded by you on youtube then create a post on wordpress;update any youtube video with higher view  to my wordpress blog
+entailment;If disconnects from any wifi network on android device then turn off wifi on android device;IF phone goes out of range of any WiFi network and disconnects, THEN turn WiFi off conserving battery.
+entailment;If any new contact on ios contacts then add reminder to list on ios reminders;saves new contacts in a reminder list with the date, you have created the contact.
+entailment;If new public video uploaded by you on youtube then add a bitlink on bitly;YouTube upload public Bitmark to Bit.ly
+entailment;If new public video uploaded by you on youtube then add to buffer on buffer;YouTube upload post to G + Via Buffer
+entailment;If new public video uploaded by you on youtube then add to buffer on buffer;YT post update to G+ via Buffer
+entailment;If new public video uploaded by you on youtube then add a public bookmark on delicious;YouTube upload public bookmark to Delicious
+entailment;If new public video uploaded by you on youtube then create a text post on tumblr;YouTube upload post to Tumblr (Text Post)
+entailment;If new saved track on spotify then create a page on onenote;"This recipe records saved tracks in Spotify in a ""Spotify Saved Tracks"" section of user-specified Notebook in OneNote."
+entailment;If any new email on office 365 mail then send me an sms on sms;If you are expecting important mails, but you don't want to waste time on logging in frequently, get a SMS notification alerting you of the mail !
+entailment;If new public video uploaded by you on youtube then publish blog post on weebly;YouTube New upload post to Weebly
+entailment;If new trip completed on automatic then create a note on evernote;"This Applet is great for those who keep some type of ""Timeline"" notebook. It will create a new note in a notebook of your choice each time you complete a trip with the details of the trip."
+entailment;If new feed item on feed then add to daily digest on email digest;This Applet will email you a daily digest of any rss feed you pick, with links to add the full text of any story to Instapaper.
+entailment;If any new reminder on ios reminders then run custom url on launch center;"Speak ""Remind me..."" to Siri to add a reminder to Due via Launch Center Pro (creates a reminder of what you spoke with a default due date of 3 hours from now) Important: Make sure that Notifications are enabled for Launch Center Pro. If they aren't, you can trigger Launch Center Pro to prompt you to enable them by tapping ""Schedule"" and temporarily scheduling an alert on any action item in Launch Center Pro."
+entailment;If disconnects from a specific wifi network on android device then set comfort profile until next transition on ecobee;Set the thermostat to away profile whenever you leave home and disconnect from your home wifi
+entailment;If send ifttt an email tagged on email then set temperature on nest thermostat;If er certain switch is triggered, for example when the Home status is activated in HomeWizard, HPM sends an email to set the NEST temperature to 22 degrees celsius.
+entailment;If send ifttt an email tagged on email then set temperature on nest thermostat;If er certain switch is triggered, for example when the Away status is activated in HomeWizard, HPM sends an email to set the NEST temperature to 17 degrees celsius.
+entailment;If send ifttt an email tagged on email then set temperature on nest thermostat;If er certain switch is triggered, for example when the Night status is activated in HomeWizard, HPM sends an email to set the NEST temperature to 16 degrees celsius.
+entailment;If send ifttt an email tagged on email then set temperature on nest thermostat;If er certain switch is triggered, for example when the Holiday status is activated in HomeWizard, HPM sends an email to set the NEST temperature to 16 degrees celsius.
+entailment;If your alarm goes off on amazon alexa (us only) then send an sms on android sms;I use this to set an alarm for when I am working outside or around the house and am not near a clock.  Since I usually have my phone on me, I will get notified wherever I happen to be and won't miss my appointments...you could also use this in conjunction with another Applet that sends an SMS to your kids or spouse too.
+entailment;If new favorite item on pocket then create a link note on evernote;When I favorite an article I've saved to Pocket, create a link note in my Reading Log notebook in Evernote.
+entailment;If any new issue on github then create a card on trello;"Automatically add GitHub issues to Trello but limit the number of excessive fields set in the card. New cards are created in a ""New Issues"" list."
+entailment;If card added to list on trello then create an issue on github;"Creating a new card in a Trello board list named ""New Issues"" generates a new issue in a GitHub repo."
+entailment;If new liked video on youtube then append to note on evernote;Log your liked YouTube Video to a Evernote, it's easier to search your liked video history.
+entailment;If sunset on weather then blink lights on philips hue;Little reminder of sunset and to maybe turn on the lights.
+entailment;If new liked tweet by you on twitter then save for later on pocket;Add links from favorited tweets to your pocket.
+entailment;If new feed item on feed then upload a photo from url on facebook;Publish from RSS to Facebook Photo
+entailment;If new screenshot on android photos then create a page with an image on onenote;Take a screenshot and it will create a new notebook with the screenshot.
+entailment;If new screenshot on android photos then post a tweet with image on twitter;Take a screenshot and will post it on Twitter as an image. It does take a while for the screenshot to be posted though.
+entailment;If new track added to a playlist on spotify then add track to a playlist on spotify;Spotify refreshes its Discover Weekly playlist every week, so this recipe archives all of the tracks it suggests in a new playlist.
+entailment;If new liked item on instapaper then append to note on evernote;Every time you like an article in Instapaper, add it to a running note in Evernote.
+entailment;If new public video uploaded by you on youtube then send me an email on email;When a public video is created send me an email
+entailment;If new feed item on feed then create a link post on facebook pages;add a link post to a facebook page everytime a new RSS feed is being published
+entailment;If any new post in buffer on buffer then save for later on pocket;Should save later to Pocket, every news i share via buffer
+entailment;If you enter an area on ios location then stop recording on manything;If I arrive home, stop recording security footage.
+entailment;If any new contact on ios contacts then add row to spreadsheet on google drive;Add all new or modified iOS contacts to google drive>iOS Contacts
+entailment;If new tweet by a specific user on twitter then post to channel on slack;Notify a Slack service whenever Microsoft announces a new vulnerability or updates an existing one. #devops
+entailment;If today's weather report on weather then add row to spreadsheet on google drive;Add weather fields to a line in google spreadsheet
+entailment;If motion detected on manything then advanced: insert a record on salesforce;When Manything detects a motion in one of your devices, it will create a record in Salesforce to track it
+entailment;If new status message by you on facebook then post a tweet on twitter;This Applet will automatically tweet your Facebook text post for you.
+entailment;If any new public photo by you on 500px then add pin to board on pinterest;When you publish a picture on 500px, add it also to a Pinterest board
+entailment;If any new public photo by you on 500px then post a tweet with image on twitter;When a new picture is posted on your 500px profile, publish a twitter message with the picture
+contradiction;If any new post on blogger then create a link post on facebook;Every one who love god .try to make batter hour world
+contradiction;If new feed item on feed then save for later on pocket;Get notified when any new movie that is released by release groups via DVD, Bluray, Digital, etc is released, straight into your Pocket.
+contradiction;If you exit an area on ios location then set a program on oticon;"Skift program fra ""hjem"" til ""rejse"""
+contradiction;If new feed item on feed then quick add event on google calendar;This quick thingamajig adds items from UCLA's arts calendar to my Google Calendar, one month out.
+contradiction;If new feed item on feed then quick add event on google calendar;Scrapes events from the University of Southern California's online calendar and puts them into Google Calendar.
+contradiction;If you exit an area on ios location then set a program on oticon;"Skift program fra ""lokation 2"" til ""rejse"""
+entailment;If any new photo by you on instagram then post a tweet with image on twitter;Any post from Anthem Instagram sends tweet from Light Church!
+entailment;If any new photo by you on instagram then post a tweet with image on twitter;When post on church Instagram, Tweet sent from Light Church Twitter
+contradiction;If new feed item on feed then create a link post on tumblr;Fandom vidders, reccers, archivists and mods can modify this Applet to automatically post new playlist items to tumblr. REPLACE the Feed URL with the URL of YOUR Playlist's RSS feed to set up a tumblr blog for your playlist. See tumblr for more deets!
+contradiction;If new tweet from search on twitter then add user to list on twitter;A curation of experts tweeting about UI design.
+contradiction;If new feed item on feed then create a link post on facebook pages;Offerte da sito a facebook EF
+contradiction;If new feed item on feed then create a link post on facebook;RSS Feed to Facebook (T2 c)
+entailment;If any new photo by you on instagram then post a tweet with image on twitter;Post from IG to Twitter at real images
+entailment;If new feed item on feed then create a link post on tumblr;Example of linking tag-tracker Youtube Playlist to Tumblr feed blog
+entailment;If connects to a specific wifi network on android device then create a status message on facebook;Every time you connect to your personal WIFI set to post on facebook a message!
+contradiction;If you enter an area on android location then turn off wifi on android device;If work Wifi requires log-in and you'd rather use your data...
+entailment;If nest set to away on nest thermostat then turn off on wemo switch;Set your wemo switches to automatically change to off state when your nest is away.
+entailment;If new tweet by a specific user on twitter then send an email on gmail;Send alert to Me When MoMo Tweets
+contradiction;If new follower on twitter then post a tweet on twitter;If you're interested take a look at my new website.
+entailment;If every hour at on date & time then upload a photo from url on facebook pages;If every hour at 15 minutes past the hour, then upload a photo from URL on Edwin
+contradiction;If new feed item on feed then add to daily digest on email digest;Gives you a daily email of news from the SCMP.
+entailment;If new tweet by a specific user on twitter then post a tweet on twitter;Repost tweet on @ONLYRPE to @eunhyyukk
+contradiction;If breaking news for sport on espn then display notification on lametric time;Place LaMetric Time on the shelf at home or office and don't miss Olympics news.
+contradiction;If you enter an area on ios location then send a notification on notifications;Momentos em que chego na Geocontrol
+entailment;If say a specific phrase on amazon alexa (us only) then display notification on lametric time;"If you have Alexa in your room, you can send message to friend's LaMetric Time by saying ""Alexa trigger lunch"""
+entailment;If disconnects from a specific wifi network on android device then arm ismartalarm on ismartalarm;The quite opposite of my first Applet. It turn your iSmartAlarm on as soon as your phone looses the connection to your home WiFi.
+contradiction;If any new post on wordpress then add a public bookmark on delicious;Publica algo en Wordpress y listo.
+contradiction;If new feed item on feed then send me an email on email;Sends and email when RSS is updated
+contradiction;If any new post on wordpress then create a text file on dropbox;Publica algo en Wordpress y listo.
+entailment;If new public video uploaded by you on youtube then create a post on wordpress;yt to blog .com and wordpress
+entailment;If every day of the week at on date & time then turn off bluetooth on android device;I f you want to turn off bluetooth, for instance when you stop driving
+entailment;If new feed item on feed then update device wallpaper on android device;This will get the latest popular image on 500px and add to android wallpaper
+contradiction;If new link by you on twitter then create a link post on facebook pages;SHUBHAM WEDDING PLANNERS is a Guntur based Event Organizing Company operating in various places in AP. Wedding Planners with experienced Event Organizers in a proposed Budget is the speciality of SWP. We take up all the Corporate Events and SWP Provides the Best Service in the Industry.
+contradiction;If smoke alarm emergency on nest protect then post to channel on slack;This connects your Nest Protect Smoke detection to Slack.
+entailment;If current condition changes to on weather then save toward a goal on qapital;Save $3 when the weather changes from sunny to rain.
+contradiction;If every day at on date & time then send me an email on email;Gives you a countdown to the election and a link to 538 to catch up on latest news.
+entailment;If enter area on vinli then post a message to group on groupme;Whenever Vinli detects that you got to work, post in your family's GroupMe group that you got to work safely.
+contradiction;If new feed item on feed then send me an email on email;Get an email for every new MGC question
+contradiction;If exit area on vinli then add datapoint on beeminder;Automatically update your Beeminder goal whenever Vinli detects that you left the gym.
+contradiction;If exit area on vinli then add datapoint on beeminder;Automatically update your Beeminder goal whenever Vinli detects that you left the gym.
+contradiction;If new photo in your folder on dropbox then upload public photo from url on flickr;Creates posts with hashtags as cats
+entailment;If any new contact on ios contacts then add row to spreadsheet on google drive;Backs up contacts to a Google Drive spreadsheet
+entailment;If switched on on wemo light switch then activate scene on hunter douglas powerview;Wemo turns on and shades lower
+contradiction;If new activity by you on strava then post to channel on slack;Earn those internet workout points with your team!
+entailment;If new pull request for a specific repository on github then send a notification on notifications;Requires https://staticman.net and a Jekyll blog. This sends you a phone notification when someone posts a comment awaiting moderation.
+entailment;If new motion detected on ring then switch on on smartthings;If ring doorbell detects motion, Switch ON entrance lights (Smartthings). Also add a power allowance app on SmartThings which switches off the same lights after 1 minute.
+entailment;If any new contact on ios contacts then append to a text file on dropbox;Publishes new iPhone contacts to a text file in Dropbox.
+entailment;If new photo post by you on facebook then upload a photo from url on facebook;If every hour at 15 minutes past the hour, then upload a photo from URL on Edwin
+entailment;If new completed task on todoist then add row to spreadsheet on google drive;Add new row to 1 googlesheet each time task from any project in Todoist is completed
+contradiction;If new post from search on craigslist then send me an email on email;Search Craigslist for snowboards in Seattle
+contradiction;If new public video uploaded by you on youtube then create a link post on facebook pages;Click Video to enjoy featured videos from the Institute for Natural Health
+contradiction;If any new post on blogger then share an update on linkedin;IDL Technologies | Website | Web Application | Software Development | Digital Signature | Bulk SMS | Voice Call |
+contradiction;If new status message on page on facebook pages then post a tweet with image on twitter;Digital Signature | Class 2 | Class 3| DGFT | USB Token
+entailment;If new liked tweet by you on twitter then save any web page on inoreader;Twitter Likes to Inoreader saved web pages
+contradiction;If new feed item on feed then send a notification on notifications;If you are using the IFTTT app on your device, you can receive push notifications to alert you to updates of Zendesk's SDKs.
+contradiction;If new tweet by you with hashtag on twitter then add to buffer on buffer;How to be creative by #MediaHQ http://goo.gl/NXb4WI
+contradiction;If every day at on date & time then post to channel on slack;Start of the day schedule line up for Design Team
+contradiction;If new feed item on feed then save for later on pocket;Wenn es einen neuen Blogbeitrag von @700Sachen gibt, landet er in eurem Pocket.
+entailment;If new article from search on the new york times then create journal entry on day one;Create daily entry on Day One with the Quotation of the Day from New york times.
+entailment;If new tweet by you with hashtag on twitter then add to buffer on buffer;If Twitter then post on Buffer to LinkedIn
+contradiction;If new hot post in subreddit on reddit then add to daily digest on email digest;Get the top r/TodayILearned posts as a daily email digest
+entailment;If any new photo by you on instagram then upload a photo from url on facebook pages;From Instagram to Facebook Page with custom Message
+contradiction;If any new post on blogger then create a post on blogger;Idea Cellular denies report on mega merger talks with Vodafone
+entailment;If any new email in inbox on gmail then post message on skype;Send me Skype notification about new email
+contradiction;If new pin on your board on pinterest then add a public bookmark on pinboard;The pinboard selected becomes the tag. The original source is bookmarked with an extra link to the pinboard post in the description.
+contradiction;If new public video uploaded by you on youtube then create a link post on facebook pages;Watch Our New Video. Don't Forget To Share
+entailment;If new video clip recorded on piper then add file from url on dropbox;Every time your Piper records a clip it will be uploaded to your Dropbox.
+entailment;If card assigned to me on trello then send blink event on blink(1);blink, when a card is assigned to you.
+contradiction;If you exit an area on ios location then ask me to arm piper on piper;Use the map to choose the location of your home, and Piper will ask you to arm it.
+entailment;If piper went offline on piper then append to a text file on dropbox;Every time Piper loses internet connection an even will be written into a text file in Dropbox.
+contradiction;If any new email in inbox on gmail then append to note on evernote;if you don't have money for evernote plan that have save email to evernote create a new account and active this
+entailment;If button press on do button then set a wireless accessory dimmer level on piper;Choose your dimmer, any desired dim level and control your lights with a press of a button.
+entailment;If button press on do button then turn off a wireless accessory on piper;Control your switch or lights with a click of a button.
+contradiction;If button press on do button then turn on a wireless accessory on piper;Control your switch or lights with a click of a button.
+contradiction;If new email in inbox from on gmail then send a notification on notifications;"After so many suggestions asking for a mobile app for the MC-Market website, Croc finally found a simple method to get native push notifications from MCM. However, this ""hack"" requires that Email notifications are turned on via Preferences on MCM."
+contradiction;If activity detected in a security mode on piper then post a tweet on twitter;Choose your smoke sensor from the list.
+entailment;If every day of the week at on date & time then turn off a wireless accessory on piper;Let Piper automatically turn off the light when you leave in case you forgot.
+contradiction;If new activity by you on strava then send an sms on android sms;My wife always wants to know that I'm safe and sound after running or biking!
+contradiction;If every day of the week at on date & time then set a wireless accessory dimmer level on piper;Start your morning with a soft ambient light
+entailment;If send ifttt any sms on sms then add row to spreadsheet on google drive;This Applet will create an entry in a Google Docs spreadsheet when an SMS message is received.
+contradiction;If new liked tweet by you on twitter then save for later on pocket;When you want to save some article to read later :D
+contradiction;If new feed item on feed then post to channel on slack;This is for adding the Showcase Feed form X Theme Users to Slack.
+contradiction;If say a specific phrase on amazon alexa (us only) then call my phone on phone call;Just install this and tell Alexa
+contradiction;If new feed item on feed then send a notification on notifications;Sends a Push notification for new Pokemon Go APKs uploaded on APKmirror.
+contradiction;If hub status changed on skylinknet then create a document on google drive;Adds an Exit-Delay entry to the Google-Drive SkylinkNet folder
+entailment;If every day at on date & time then send me an email on email;If every day of the week at 09:00 AM on Mon Tue Wed Thu Fri, then send an email from paulanthonysurdi@gmail.com
+contradiction;If hub status changed on skylinknet then create a document on google drive;Adds an Entry-Delay entry to the Google-Drive SkylinkNet folder
+contradiction;If new feed item on feed then create a link post on facebook pages;New pics and infos from the kitchen team if this fine restaurant in potsdam - cidy lauper loves it
+contradiction;If hub status changed on skylinknet then create a document on google drive;Adds a Panic entry to the Google-Drive SkylinkNet folder
+contradiction;If hub status changed on skylinknet then create a document on google drive;Adds a Disarm entry to the Google-Drive SkylinkNet folder
+entailment;If badge earned on code school then share a link on linkedin;This receipe enables Every Time when you successfully earn a badge in Code school, it will be automatically shared in LinkedIn.
+contradiction;If hub status changed on skylinknet then create a document on google drive;Adds an Armed-Away entry to the Google-Drive SkylinkNet folder
+contradiction;If cycle has finished on home connect washer then blink lights on philips hue;Have your Philips Hue lights blink to let you know that your laundry is complete.
+contradiction;If hub status changed on skylinknet then create a document on google drive;Adds an Armed-Home entry to the Google-Drive SkylinkNet folder
+entailment;If new track added to a playlist on spotify then add track to a playlist on spotify;Archive your Release Radar playlist on a weekly basis. Just update the two playlists below with your Release Radar playlist and the custom playlist you created to store your weekly Archive.
+entailment;If new liked tweet by you on twitter then save for later on pocket;Heart one of them tweets there, and we'll pop it in your Pocket with a few tags to let you know where it came from.
+contradiction;If any new post on blogger then create a link post on facebook pages;"Large size ""onesies"" styles are now available (up to 48 months)"
+contradiction;If new feed item on feed then send me an email on email;If iTunes is free- tell me
+contradiction;If new email in inbox from on gmail then send a notification on notifications;Used to monitor email from our webmaster
+entailment;If any new photo by you on instagram then quick add event on google calendar;Posts to Instagram will be added as entries in Google calendar so that every time something inspires you, you will be prompted to act on that inspiration by Google calendar. This is a work in progress. I wanted to add google maps to the calendar notice so that it would prompt you to go to a location that is related to your Instagram post. If you know how to do this please contact me if you found a way.
+contradiction;If new item tagged on pocket then push a link on pushbullet;... Or customize the tag that's pushed automatically
+entailment;If new song played on amazon alexa (us only) then add track to a playlist on spotify;"Play a song on an Alexa-enabled device, and the song should be added to a Spotify playlist called ""Songs played with Alexa."""
+entailment;If new issue assigned to you on github then create task on todoist;GitHub issues assigned to you will appear in your Todoist list in a project of your choice.
+entailment;If new hot post in subreddit on reddit then update device wallpaper on android device;Sets your android wallpaper to the top post in /r/BotanicalPorn
+contradiction;If new article from search on the new york times then create journal entry on day one;Add the quote of the day from new your time to day one.
+contradiction;If long press on wemo light switch then turn off on wemo light switch;Turn off all switches from one.
+contradiction;If new item saved on instapaper then post to channel on slack;Instead of looking through your instapaper, use slack's amazing search feature to find links saved!
+entailment;If new photo by you with specific hashtag on instagram then send me an email on email;Send yourself an email for specific instagram snaps
+contradiction;If standby mode entered on wemo insight switch then send me an email on email;This is to inform me that my washer finished its cycle.
+contradiction;If new feed item on feed then add pin to board on pinterest;Posting from wordpress blog to Pinterest
+contradiction;If new feed item on feed then create a status message on facebook pages;Recent Calls that the Jordan Fire Department Responded to.
+entailment;If you exit an area on ios location then turn off on wemo switch;Specify where you live and when you leave home your WeMo switch(es) will turn off.
+contradiction;If new feed item on feed then send me an email on email;Set up your e-mail and don't forget to create a filter for it
+contradiction;If new activity by you on strava then add row to spreadsheet on google drive;"Change the ""Your Name"" to your first name. Leave the ""|||"" after your name."
+contradiction;If new feed item on feed then post to channel on slack;Notify a Slack service when Casey Neistat uploads a new video to his YouTube account.
+contradiction;If motion detected on manything then send an email on gmail;Send email to medulerlink@gmail.com , Create an 8 digit UNIQUE VALUE and replace the letters UNIQUEVALUE in the Subject line and Body with that.
+contradiction;If new feed item on feed then post to channel on slack;Pings you in Slack when a new deal goes up at meh.com each night.
+entailment;If motion detected on manything then send an email on gmail;When motion is detected, sends an email from manything to medulerlink@gmail.com with the Meduler Member username you place in the Subject line.
+entailment;If new item tagged on pocket then add row to spreadsheet on google drive;"When I find a book I want to read, I just save it to pocket with ""book"" tag and automatically add a row to my booklist in a google sheet"
+contradiction;If new story from section on people then add to weekly digest on email digest;"Bacteria and viruses are two different types  of  Pathogens organism that can causes discease depend on the area  of the body that is effected,sometimes symptoms  of the two can be very similier.For example runny nose  cough,headaches and fatigues can occurs with commom cold  (Virus) and with a sinus infection (Bacteria) a Doctors may use the presence of other symptoms (such as fever of the body aches ) the length of the illness. And certain lab tests to determine if an illnesses is due to viruses,Bacteria, or some other pathogens discease process!_Messtone """
+contradiction;If new tweet by a specific user on twitter then post a tweet on twitter;A great way to keep up to date with traffic in LA.
+contradiction;If new tweet by a specific user on twitter then post a tweet on twitter;#LATraffic update from CalTrans District 8
+contradiction;If you enter an area on android location then set a program on go;"Once you arrive a work - the hearing aids will automatically change to your ""at work program"". Note: requires hearing aids compatible with the GO channel"
+contradiction;If you enter an area on ios location then set a program on go;"This recipe will automatically change your hearing aids to your ""at work program"" when you arrive. Note: requires requires hearing aids compatible with the GO channel"
+contradiction;If new ring detected on ring then play the text to speech on go;This Recipe enables you to define a spoken notification you will hear in your hearing aids, when someone rings the door. Note: requires hearing aids compatible with the GO channel and only on iOS
+entailment;If any new sms sent on android sms then append to a document on google drive;For each SMS sent, save it to a unique document for each contact in Google Drive. Combine with the same Applet for SMS received, you can log all your in/out messages on your drive
+contradiction;If new link post by you on facebook then create a link post on facebook pages;Today, each and every business relies on IT (Information Technology) in any way to get a particular job done though it is from any field. In some industries, the use of advanced communication technologies like sending documents and emails to the associates or clients might be restricted. For many reasons, every small business firms are in need of getting any type of IT support to fix the problems and get right solutions. It is most probably considered especially for the small businesses because they are always struggle to find the in-house provider of technical hep within the budget.
+contradiction;If new link post by you on facebook then create a link post on facebook pages;Today, each and every business relies on IT (Information Technology) in any way to get a particular job done though it is from any field. In some industries, the use of advanced communication technologies like sending documents and emails to the associates or clients might be restricted. For many reasons, every small business firms are in need of getting any type of IT support to fix the problems and get right solutions. It is most probably considered especially for the small businesses because they are always struggle to find the in-house provider of technical hep within the budget. In order to get such a great solution for fixing your technical issues, first of all you should need to pick a leading   small business IT support  service provider in your region. From the lots of options to get such information technology support, all small business owners can go for the Ashgoal firm in Hertfordshire. There is an excellent team of IT professionals who have many years of experience in provider such a great levels of information technology solutions to all small business owners in all the major cities of London. Now, they are the sage platinum partner to give all types of solutions to fix your commercial technical problems. This UK based technical team has been using the growing pattern for providing the top notch telecoms, IT services, and support for the growth of the various small businesses. This firm has over 40 years of experience in provide IT services and support all varieties of small businesses with the worthy customer service. Teamwork is a main strength of this Ashgoal Company to provide such a great telecom IT consulting and support services in order to satisfy all the commercial needs of the customers.
+contradiction;If any new email in inbox on gmail then make a web request on maker;Makes a GPIO pin on your BLYNK enabled device change state.
+entailment;If new sleep logged on up by jawbone then log offline time on rescuetime;You can see how your sleep compares to the rest of your logged time in RescueTime by importing your sleep records from Jawbone UP.
+entailment;If cooking timer done on home connect oven then send me an sms on sms;Receive an SMS when the alarm clock on your oven with Home Connect has elapsed. Just add your mobile phone number and get informed wherever you are.
+contradiction;If button press on do button then pre-heat oven on home connect oven;Press the DO-Button and preheat your oven with Home Connect to a preferred temperature.
+contradiction;If you enter an area on android location then set ringtone volume on android device;You can modify map,as per your office location
+entailment;If cooking timer done on home connect oven then blink lights on philips hue;Have your Philips Hue lights blink to let you know that the clock timer on your oven with Home Connect has elapsed.
+contradiction;If new photo post by you with hashtag on facebook then create a post on blogger;Home Security Guru with Security Guru
+entailment;If preheat temperature reached on home connect oven then change color on philips hue;Have your Philips hue lights change colour when your oven with Home Connect has finished preheating.
+entailment;If cycle has finished on home connect washer then play music on android device;Play music on your Android device when your laundry is complete.
+contradiction;If every day at on date & time then mute ringtone on android device;I'm a older man ! But I think I might need a lots sleeping time !
+contradiction;If new feed item on feed then send me an email on email;Monitors the Apple Insider feed for iPhone 7 articles and emails them on.
+contradiction;If new tweet by a specific user on twitter then post a tweet on twitter;tweet to post by specific user
+entailment;If new tweet by you on twitter then add pin to board on pinterest;If new tweet by @sourabhnagori including retweets & @replies, then add Pin to board
+contradiction;If new status message on page on facebook pages then post a tweet on twitter;How You're Having A Great Humpday!
+contradiction;If new public video uploaded by you on youtube then create a link post on facebook pages;How to make a Durian dorayaki
+contradiction;If every year on on date & time then create a card on trello;Just a shortcut for my private shedules... because in ifttt you can't copy Applets.. buuuh!
+contradiction;If you exit an area on android location then turn off wifi on android device;This Applet is to turn off my wifi
+contradiction;If every month on the on date & time then create a card on trello;Just a shortcut for my private shedules... because in ifttt you can't copy Applets.. buuuh!
+contradiction;If any new post on blogger then create a link post on facebook pages;"As we know playstation is worldwide gaming machine, Sony is launching two new playstation ""PS4"" models next month. It is great news for Gamers and kid's around the globe."
+contradiction;If any new post on blogger then post a tweet on twitter;4 Pasos para su Plan de Mercadeo
+entailment;If new motion detected on ring then play alert on nightingale;If motion is detected in my front yard, sound an alert on Nightingale
+entailment;If any new post on blogger then create a link post on facebook pages;this is how to connect blogger to facebook
