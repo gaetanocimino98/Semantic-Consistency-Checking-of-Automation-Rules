@@ -1,6 +1,7 @@
 # Semantic Consistency Checking of Automation Rules
-In this paper, we propose a BERT (Bidirectional Encoder Representations from Transformers)-based model for semantic consistency checking of IFTTT applets. Our model uses pre-trained language representations to learn the semantics of applet components and identifies inconsistencies within the user-defined descriptions associated with applets.
+This repository contains the supplementary material for the paper "A BERT-based Model for Semantic Consistency Checking of Automation Rules" submitted to the 29th International DMS Conference on Visualization and Visual Languages (DMSVIVA23).
 
+This material comprises the dataset employed to train the classification model and the source code useful for the repeatability of the experiments.
 
 # Introduction
 According to the IFTTT creation paradigm, when a user creates a new applet, the creator must specify a natural language description that summarize how the applet works. By reading this field, a new user can more easily understand what an applet is for and decide whether or not to activate it on their device. However, on the part of IFTTT, there is no control over the content of the description entered by the user, so the creator could write anything, falsely describing the applet’s behavior. To this end, we developed a model that can check whether there is some semantic consistency between the trigger-action components of an applet and its natural language description provided by its creator. We fine-tuned a BERT-based classification model that takes as input a pattern derived from the applet components and the corresponding user-defined description and outputs a label ('entailment' or 'contradiction') and a similarity score for these two sentences.
