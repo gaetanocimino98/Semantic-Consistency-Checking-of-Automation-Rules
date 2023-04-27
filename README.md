@@ -29,9 +29,10 @@ The applets were labeled according to the following similarity label values:
 
 
 # Setup the project
-import numpy as np
-import pandas as pd
-import tensorflow as tf
-import transformers
-
+```
+# import numpy as np
+# import pandas as pd
+# import tensorflow as tf
+# import transformers
+```
 **Note**: install HuggingFace `transformers` via `pip install transformers` (version >= 2.11.0)
