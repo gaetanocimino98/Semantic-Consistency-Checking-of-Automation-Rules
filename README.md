@@ -26,13 +26,3 @@ The applets were labeled according to the following similarity label values:
 
 * Contradiction: indicates inconsistency between the description of the creator and the description synthesized.
 * Entailment: denotes consistency between the description of the creator and the description synthesized.
-
-
-# Setup the project
-```
-import numpy as np
-import pandas as pd
-import tensorflow as tf
-import transformers
-```
-**Note**: install HuggingFace `transformers` via `pip install transformers` (version >= 2.11.0)
