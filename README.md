@@ -14,7 +14,7 @@ University of Salerno
 # Dataset Information
 In our study, we utilized the dataset proposed by Mi et al. [1] (<a href="https://www-users.cse.umn.edu/~fengqian/ifttt_measurement/">download</a>), which consists of a collection of IFTTT applets obtained from crawling the IFTTT.com site. This dataset includes crucial information such as a title (<i>Title</i>), a description explaining the applet behavior (<i>Desc</i>), the event triggering the applet (<i>TriggerTitle</i>) defined through a specific channel (<i>TriggerActionChannel</i>), the action to be performed (<i>ActionTitle</i>) selected from the corresponding channel (<i>ActionChannelTitle</i>), and the name of the applet creator (<i>Creator Name</i>).
 
-We first defined a new pattern for <i>synthesizing</i> User defined descriptions (UDDs) by carefully combining applet components, ensuring a coherent and accurate representation. Then, we conducted <i>dataset labeling</i>, a crucial process that involved assigning appropriate labels to the synthesized dataset, which enabled efficient categorization, organization, and analysis of the data. In particular, the pattern utilized for generating the synthesized UDD is as follows:
+We first defined a new pattern for <i>synthesizing</i> User-defined descriptions (UDDs) by carefully combining applet components, ensuring a coherent and accurate representation. Then, we conducted <i>dataset labeling</i>, a crucial process that involved assigning appropriate labels to the synthesized dataset, which enabled efficient categorization, organization, and analysis of the data. In particular, the pattern utilized for generating the synthesized UDD is as follows:
 
 ```
 IF TriggerTitle (TriggerChannelTitle) THEN ActionTitle (ActionChannelTitle)
