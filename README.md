@@ -42,3 +42,12 @@ An annotated sample is shown below.
 # Relevant Papers
 
 [1] Mi, X., Qian, F., Zhang, Y., Wang, X., 2017. An empirical characterization of IFTTT: ecosystem, usage, and performance, in: Proceedings of the Internet Measurement Conference, ACM. pp. 398–404
+
+# Citation 
+
+```
+@article{brevebert,
+  title={A BERT-based Model for Semantic Consistency Checking of Automation Rules},
+  author={Breve, Bernardo and Cimino, Gaetano and Deufemia, Vincenzo and Elefante, Annunziata}
+}
+```
